@@ -1,0 +1,23 @@
+{
+  "name": "p2p-helper",
+  "version": "0.0.1",
+  "homepage": "https://github.com/justindarc/p2p-helper.js",
+  "authors": [
+    "Justin D'Arcangelo <justindarc@gmail.com>"
+  ],
+  "main": "dist/p2p-helper.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "example",
+    "node_modules",
+    "src",
+    "test",
+    "bower.json",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
